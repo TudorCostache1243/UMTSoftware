@@ -1,0 +1,7 @@
+E:\Programare\UMT\UMTSoftware\UMTSoftware\bin\Debug\UMTSoftware.exe.config
+E:\Programare\UMT\UMTSoftware\UMTSoftware\bin\Debug\UMTSoftware.exe
+E:\Programare\UMT\UMTSoftware\UMTSoftware\bin\Debug\UMTSoftware.pdb
+E:\Programare\UMT\UMTSoftware\UMTSoftware\obj\Debug\UMTSoftware.csprojAssemblyReference.cache
+E:\Programare\UMT\UMTSoftware\UMTSoftware\obj\Debug\UMTSoftware.csproj.CoreCompileInputs.cache
+E:\Programare\UMT\UMTSoftware\UMTSoftware\obj\Debug\UMTSoftware.exe
+E:\Programare\UMT\UMTSoftware\UMTSoftware\obj\Debug\UMTSoftware.pdb
